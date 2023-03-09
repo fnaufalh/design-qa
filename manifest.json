@@ -1,0 +1,11 @@
+{
+  "name": "design-qa",
+  "id": "1215448662723301304",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ]
+}
